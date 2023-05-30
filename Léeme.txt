@@ -1,0 +1,3 @@
+En la carpeta "ArchivosAdicionales" adjuntamos las tablas que utilizamos (nombre de la base de datos: cajero_atm) y las librerías externas (el mysql connector solo por si acaso y el AutoCompleter). Las librerías las pusimos en caso de que el programa no las reconozca, sobre todo por el autocompleter.
+
+El programa empieza en la clase LoginScreen.
